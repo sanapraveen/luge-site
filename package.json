@@ -1,0 +1,18 @@
+{
+  "name": "luge-site",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.52.2",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@waaark/luge": "^0.6.9-beta",
+    "gsap": "^3.10.1"
+  }
+}
